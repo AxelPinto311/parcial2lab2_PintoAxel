@@ -1,0 +1,10 @@
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\bin\Debug\Parcial2 Lab2.exe.config
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\bin\Debug\Parcial2 Lab2.exe
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\bin\Debug\Parcial2 Lab2.pdb
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\obj\Debug\Parcial2 Lab2.csprojAssemblyReference.cache
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\obj\Debug\Parcial2_Lab2.Form1.resources
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\obj\Debug\Parcial2_Lab2.Properties.Resources.resources
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\obj\Debug\Parcial2 Lab2.csproj.GenerateResource.cache
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\obj\Debug\Parcial2 Lab2.csproj.CoreCompileInputs.cache
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\obj\Debug\Parcial2 Lab2.exe
+C:\Users\megatecnologia\AppData\Local\Temporary Projects\Parcial2 Lab2\obj\Debug\Parcial2 Lab2.pdb
